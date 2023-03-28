@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-jas&label=Profile%20views&color=0e75b6&style=flat" alt="code-jas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-jas" alt="code-jas" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-jas" alt="code-jas" /></a> </p>      -->
 
 - 🌱 I’m currently learning **MEVN stack, machine learning**
 
