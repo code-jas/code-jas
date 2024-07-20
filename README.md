@@ -17,7 +17,7 @@
 ### Technologies & Skills
 
 #### Frontend
-![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,vue,nuxt,vite,tailwind,shadcn,flutter,dart,javascript,html,css&titles=true)
+![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,vue,nuxt,vite,tailwind,flutter,dart,javascript,html,css&titles=true)
 
 #### Backend
 ![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sequelize,mysql,postgresql,mongodb,firebase&titles=true)
