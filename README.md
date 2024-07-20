@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm John Angelo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey, I'm John Angelo!</h1>
 <h3 align="center">Passionate about creating quality digital solutions for real-world problems.</h3>
 
 <p align="left">
@@ -17,7 +17,7 @@
 ### Technologies & Skills
 
 #### Frontend
-![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,vue,nuxt,tailwind,flutter,dart,javascript,html,css&titles=true)
+![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,vue,nuxt,vite,tailwind,shadcn,flutter,dart,javascript,html,css&titles=true)
 
 #### Backend
 ![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sequelize,mysql,postgresql,mongodb,firebase&titles=true)
