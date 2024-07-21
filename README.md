@@ -30,7 +30,7 @@
 
 [![gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true)](mailto:johnangelo.silvestre04@gmail.com)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/johnangelo-silvestre/)
-[![discord](https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)](https://discordapp.com/users/742020338270863450)
+[![x](https://go-skill-icons.vercel.app/api/icons?i=x&titles=true)](https://x.com/CodeJs04)
 [![facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook&titles=true)](https://www.facebook.com/angelobsilvestre)
 
 ### Github stats
