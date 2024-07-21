@@ -31,16 +31,14 @@
 [![gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true)](mailto:johnangelo.silvestre04@gmail.com)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/johnangelo-silvestre/)
 [![discord](https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)](https://discordapp.com/users/742020338270863450)
-<!-- [![github](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)](https://github.com/code-jas) -->
 [![facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook&titles=true)](https://www.facebook.com/angelobsilvestre)
 
-<details>
-  <summary>
-    <h3>Github stats</h3>
-  </summary>
-  
-![Github Stats](https://github-readme-stats-code-jas.vercel.app/api?username=code-jas&theme=blueberry&count_private=true&hide_border=true&line_height=20&cache_seconds=60)
-![Top Languages](https://github-readme-stats-code-jas.vercel.app/api/top-langs/?username=code-jas&theme=blueberry&count_private=true&hide_border=true&cache_seconds=60)
+### Github stats
 
+![Github Stats](https://github-readme-stats-code-jas.vercel.app/api?username=code-jas&theme=blueberry&count_private=true&hide_border=true&line_height=30&rank_icon=github&cache_seconds=86400)
 
-</details>
+![Top Languages](https://github-readme-stats-code-jas.vercel.app/api/top-langs/?username=code-jas&theme=blueberry&count_private=true&hide_border=true&cache_seconds=86400)
+    
+    
+<!-- refresh  24-hrs -->
+
