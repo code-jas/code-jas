@@ -39,8 +39,8 @@
     <h3>Github stats</h3>
   </summary>
   
-![Github Stats](https://github-readme-stats-code-jas.vercel.app/api?username=code-jas&theme=blueberry&count_private=true&hide_border=true&line_height=20&cache_seconds=3600)
-![Top Languages](https://github-readme-stats-code-jas.vercel.app/api/top-langs/?username=code-jas&layout=compact&theme=blueberry&count_private=true&hide_border=true&cache_seconds=3600)
+![Github Stats](https://github-readme-stats-code-jas.vercel.app/api?username=code-jas&theme=blueberry&count_private=true&hide_border=true&line_height=20&cache_seconds=60)
+![Top Languages](https://github-readme-stats-code-jas.vercel.app/api/top-langs/?username=code-jas&theme=blueberry&count_private=true&hide_border=true&cache_seconds=60)
 
 
 </details>
