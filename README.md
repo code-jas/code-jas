@@ -1,7 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey, I'm John Angelo!</h1>
 <h3 align="center">Passionate about creating quality digital solutions for real-world problems.</h3>
 
-
 <p align="left">
     <img
         src="https://komarev.com/ghpvc/?username=code-jas&label=Profile%20views&color=0e75b6&style=flat"
