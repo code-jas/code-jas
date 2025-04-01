@@ -9,7 +9,7 @@
 </p>
 
 ### 🚀 About Me
-- 💻  Full Stack Developer
+- 💻  Software Developer
 - 📍  Based in Manila, Philippines
 - ✉️  Reach me at [johnangelo.silvestre04@gmail.com](mailto:johnangelo.silvestre04@gmail.com)
 - 🔍  Exploring Next.js, React.js, Vue.js, Nuxt.js, Node.js and TypeScript
